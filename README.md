@@ -10,7 +10,7 @@
 
 ## Instalação
 
-Clone o repositório com ```git clone https://github.com/DaniloSamways/ForBell```
+Clone o repositório com ```git clone https://github.com/joaofarinelli/PedidoNamoroReact```
 
 Acesse a pasta do repositório e instale as dependências com ```npm i```
 
